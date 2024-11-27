@@ -1,0 +1,168 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.9.2">
+  <diagram name="Página-1" id="jcghTSNGZic7ZlMYW-u0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1IprDzBXVispas-Hfh58-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-2" value="PROVEEDOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NIF&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Nombre&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="115" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dirección&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="145" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#707000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="87.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-9" value="suministra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="52.5" width="170" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="92.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FK1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="92.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NIF&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="92.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="122.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FK2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="122.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Código&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="122.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.006;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1IprDzBXVispas-Hfh58-8" target="1IprDzBXVispas-Hfh58-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="117.5" width="190" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-19" value="PRODUCTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="80" width="190" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-20" value="&lt;b&gt;PK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="117.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-21" value="&lt;b&gt;Código&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-22" value="Nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="504" y="147.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-23" value="PrecioUnitario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#707000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="125" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1IprDzBXVispas-Hfh58-27" target="1IprDzBXVispas-Hfh58-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-27" value="compra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="90" width="170" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FK1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-30" value="DNI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="130" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FK2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Código&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="65" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-37" value="CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="66.25" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="106.25" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-39" value="DNI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="106.25" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Nombre&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="141.25" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-41" value="Apellidos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="163.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.995;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1IprDzBXVispas-Hfh58-26" target="1IprDzBXVispas-Hfh58-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-35" value="FechaNac," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-44" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="320" width="171" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-45" value="DIRECCIÓN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-47" value="DNI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-48" value="Vía" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-49" value="Nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-50" value="Num" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-51" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1IprDzBXVispas-Hfh58-44" target="1IprDzBXVispas-Hfh58-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-54" value="CP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1IprDzBXVispas-Hfh58-44" target="1IprDzBXVispas-Hfh58-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="340" />
+              <mxPoint x="940" y="340" />
+              <mxPoint x="940" y="260" />
+              <mxPoint x="1140" y="260" />
+              <mxPoint x="1140" y="121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1IprDzBXVispas-Hfh58-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1IprDzBXVispas-Hfh58-8" target="1IprDzBXVispas-Hfh58-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
